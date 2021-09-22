@@ -1,3 +1,20 @@
+# Expense Tracker
+
+A web application where the user can add their transactions for the month to work out their remaining balance. Application uses React Hooks and Context API. 
+
+LIVE - https://reed756.github.io/expense-tracker/
+REPO - https://github.com/reed756/expense-tracker
+
+## Lessons Learned
+
+Was the first project I've ever made which consumes an external API - learned a lot about using async JavaScript (including Promises, async/await, fetch API and error handling).
+
+First time working with JSON files, picked up extracting info from a JSON data structure and destructuring from this project.
+
+## Potential Future Features
+
+- Adding a feature which adds a relevant image for different weather descriptions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
